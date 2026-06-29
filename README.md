@@ -1,71 +1,130 @@
-👋 Hi, I'm Akhilesh Kumar  
+# 👋 Hi, I'm Akhilesh Kumar
 
-🎓 BTech in Computer Software Engineering (CSE)  
-🌐 Aspiring Full-Stack Web Developer
-📍 Ranchi, Jharkhand, India  
+🎓 **B.Tech in Computer Science & Engineering (CSE)**
+💻 **Java Developer**
+🌐 **Aspiring Full-Stack Web Developer**
+📍 **Ranchi, Jharkhand, India**
 
-👨‍💻 About Me  
+---
 
-- 🎓 BTech CSE student at **C. V. Raman Global University, Bhubaneswar (2024–2028)**
-- 🌱 Currently learning **React.js, Node.js & Full-Stack Web Development**
-- 💻 Passionate about building **responsive, scalable web applications**
-- ⚙️ Interested in **REST APIs, Backend Logic & Cloud Deployment**
-- 🤝 Open to collaboration on **Web & Open-Source Projects**
-- 🎯 Goal: **Full-Stack Software Engineer**
+## 👨‍💻 About Me
 
-## 🧑‍💻 Tech Stack  
+* 🎓 B.Tech CSE student at **C. V. Raman Global University, Bhubaneswar (2024–2028)**
+* 💼 Completed **Summer Internship at Central Coalfields Limited (CCL), Ranchi**
+* 💻 Passionate about **Java, Full Stack Development, DSA & Cloud Computing**
+* 🌱 Currently learning **React.js, Node.js, Express.js, MongoDB & Microsoft Azure (AZ-900)**
+* 🤝 Open to collaboration on **Web Development & Open Source Projects**
 
- ⚛️ Frontend  
-- HTML  
-- CSS  
-- JavaScript (ES6+)  
-- React.js  
+---
 
-🟢 Backend  
-- Node.js  
-- Express.js  
+## 💼 Internship Experience
 
- 🗄️ Database  
-- MongoDB (Learning)  
-- MySQL (Basics)  
+### 🏢 Central Coalfields Limited (CCL), Ranchi
 
-☁️ Cloud & Tools  
-- Google Cloud Platform (GCP)  
-- Git & GitHub  
-- VS Code  
-- Postman  
+**Role:** Summer Intern
 
-📚 Currently Learning  
+During my internship, I gained practical exposure to enterprise IT systems and software development workflows. This experience strengthened my understanding of software development, teamwork, and real-world problem solving.
 
-- Advanced React (Hooks, Context API)  
-- Node.js & Express REST APIs  
-- MongoDB & Mongoose  
-- Authentication (JWT)  
-- Cloud Deployment Basics  
+---
 
-📜 Certifications  
+## 🧑‍💻 Tech Stack
 
-- ✅ Data Analytics Individual Qualification Course One  
-- ✅ Digital Productivity with AI  
+### 💻 Languages
 
-📊 GitHub Stats  
+* Java
+* C
+* JavaScript
+* HTML
+* CSS
 
-![Akhilesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AKHILESH-create&show_icons=true&theme=radical)
+### ⚛️ Frontend
 
-![GitHub Streak](https://streak-stats.demolab.com?user=AKHILESH-create&theme=radical)
+* HTML
+* CSS
+* JavaScript (ES6+)
+* React.js
 
+### 🟢 Backend
 
-## 🔗 Connect With Me  
+* Node.js
+* Express.js
 
-- 📧 Email: **akhilesh.k19857@gmail.com**  
-- 💼 LinkedIn: [Akhilesh Kumar](https://www.linkedin.com/in/akhilesh-kumar-29678a310)  
+### 🗄️ Database
 
+* MongoDB
+* MySQL
 
-⚡ Fun Fact  
+### ☁️ Cloud & Tools
 
-> I love turning frontend ideas into full-stack solutions 🚀  
+* Microsoft Azure
+* Google Cloud Platform (GCP)
+* Git & GitHub
+* VS Code
+* Postman
+
+---
+
+## 🚀 Featured Projects
+
+* 🤖 **CodePilot AI** – Intelligent Coding Mentor & Interview Preparation Assistant
+* 🌐 **Personal Portfolio** – Responsive developer portfolio website
+* 📚 **LeetCode Solutions** – Java solutions for LeetCode problems
+* 🐍 **Snake Game** – GUI game built using Java Swing
+* 🧱 **Brick Breaker Game** – Java Swing arcade game
+
+---
+
+## 📚 Currently Learning
+
+* Advanced React (Hooks, Context API)
+* Node.js & Express REST APIs
+* MongoDB & Mongoose
+* Authentication (JWT)
+* Cloud Deployment Basics
+
+---
+
+## 📜 Certifications
+
+* ✅ Summer Internship @ CCL
+* ✅ Certificate of Cooperation, IIT Bbsr
+* ✅ Certificate of Shortlisting, SIH 2025
+
+---
+
+## 📊 GitHub Stats
+
+![Akhilesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AKHILESH-create\&show_icons=true\&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=AKHILESH-create\&theme=radical)
+
+---
+
+## 🎯 Current Goals
+
+* 🚀 Solve **300+ LeetCode Problems**
+* 💻 Master Full Stack Development
+* 🌍 Contribute to Open Source Projects
+* 📱 Build Real-World Applications
+
+---
+
+## 🔗 Connect With Me
+
+* 📧 Email: **[akhilesh.k19857@gmail.com](mailto:akhilesh.k19857@gmail.com)**
+* 💼 LinkedIn: https://www.linkedin.com/in/akhilesh-kumar-29678a310
+* 🐙 GitHub: https://github.com/AKHILESH-create
+* 🌐 Portfolio: https://portfolio-akhilesh-t8ab.vercel.app
+* 🟨 LeetCode: https://leetcode.com/u/Akhilesh_kr11/
+* 🟫 CodeChef: https://www.codechef.com/users/akhileshkr_11
+
+---
+
+## ⚡ Fun Fact
+
+> I enjoy turning ideas into real-world software through code and continuously learning new technologies. 🚀
 
 <!---
-AKHILESH-create/AKHILESH-create is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
+AKHILESH-create/AKHILESH-create is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
